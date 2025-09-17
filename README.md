@@ -1,4 +1,3 @@
-Daud 
 
 EXPERIENCED
 <p>
