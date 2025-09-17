@@ -1,7 +1,7 @@
 
 EXPERIENCED
 <p>
-  I was first introduced to programming during college, and although I did not anticipate developing a strong interest in it, I have since grown increasingly engaged. At present, I am focused on learning the fundamentals of Java.
+  I was first introduced to programming at home when I wanted to try something new, and although I did not anticipate developing a strong interest in it, I have since grown increasingly engaged. At present, I am focused on learning the fundamentals of Java.
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width = "40"/>
